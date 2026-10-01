@@ -1,4 +1,4 @@
-package com.braincellbureau.braincell_bureau;
+package com.braincellbureau;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
